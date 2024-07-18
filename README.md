@@ -19,7 +19,7 @@ git clone https://github.com/h4shell/django5-compose.git
 Esegui il seguente comando per avviare il server Django:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 Esegui lo script init.sh per installare le dipendenze python all'interno del container
 
